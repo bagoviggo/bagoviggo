@@ -5,7 +5,7 @@
 - 📫 How to reach me ...Twitter @Bagoviggo
 
 ---
-<img align="left" alt="bagoviggo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bagoviggo&show_icons=true&hide_border=true" />
+<img align="left" alt="bagoviggo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bagoviggo&theme=dark&show_icons=true&hide_border=true" />
 
 <!---
 bagoviggo/bagoviggo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
