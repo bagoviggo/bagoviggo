@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bagoviggo
 - 👀 I’m interested in learning everything at [ALX_SE](https://www.alxafrica.com/software-engineering-2022)🤣
-- 🌱 I’m currently learning ... Shell scripting & C
+- 🌱 I’m currently learning ... Shell scripting with Python:
 - 💞️ I’m looking to collaborate on ...Open-Source projects and interesting projects
 - 📫 How to reach me ...Twitter [@Bagoviggo](https://www.twitter.com/BagoViggo)
 
